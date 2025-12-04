@@ -1,4 +1,3 @@
-````markdown
 # 📦 `downloadById.py`
 
 Script en Python para **descargar datos ARGO de un flotador específico** usando [`argopy`](https://github.com/euroargodev/argopy) y guardarlos en un archivo NetCDF listo para análisis científico (xarray, Python, MATLAB, etc.).
@@ -399,7 +398,3 @@ Sugerencias de mejora para futuro:
 * Añadir opción para seleccionar sólo ciertas variables (`--vars TEMP,PSAL`).
 * Añadir soporte para múltiples flotadores al mismo tiempo y guardarlos en un solo NetCDF.
 
----
-
-```
-```
